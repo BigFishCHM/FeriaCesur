@@ -1,0 +1,65 @@
+*   commit 4872eb3f7d1f45660eda6c4ff711c576198cbe2a (HEAD -> master)
+|\  Merge: 8c7d9ce e92eacf
+| | Author: Jose Luis <jlcarrera33@gmail.com>
+| | Date:   Thu Apr 22 09:53:43 2021 +0200
+| | 
+| |     Ahora si
+| | 
+| * commit e92eacf1566e1db9fc5c30e51935fa4fb808333f (cocina_caseta)
+| | Author: Jose Luis <jlcarrera33@gmail.com>
+| | Date:   Thu Apr 22 09:36:34 2021 +0200
+| | 
+| |     Subida de lista_socio.txt
+| | 
+| * commit 78f4d22c46bae0437c93935c4b491fd806118dc2
+| | Author: Jose Luis <jlcarrera33@gmail.com>
+| | Date:   Thu Apr 22 09:28:27 2021 +0200
+| | 
+| |     Primera fichero creado
+| | 
+| * commit 8e1f3e3c4b0c2813c24ebaf80fc1fbcab4289976
+| | Author: Jose Luis <jlcarrera33@gmail.com>
+| | Date:   Thu Apr 22 09:27:36 2021 +0200
+| | 
+| |     Primera fichero creado
+| | 
+| * commit 9b942172406e529e9e7fa441e36d59e5bab1507f
+| | Author: Jose Luis <jlcarrera33@gmail.com>
+| | Date:   Thu Apr 22 09:26:00 2021 +0200
+| | 
+| |     Cambio realizado en la nueva rama
+| | 
+* | commit 8c7d9cefb10c12693f0cb07897be5ffa695e33e3
+| | Author: Jose Luis <jlcarrera33@gmail.com>
+| | Date:   Thu Apr 22 09:48:22 2021 +0200
+| | 
+| |     Cambio en comida.txt
+| | 
+* | commit 1c3e64902542107c70fd2e3c7fc0f3b5dc2896e1
+|/  Author: Jose Luis <jlcarrera33@gmail.com>
+|   Date:   Thu Apr 22 09:47:55 2021 +0200
+|   
+|       Cambio en lista_socio.txt
+| 
+* commit 254eac2666944bfb7add59d49b9e1d9260fe620d
+| Author: Jose Luis <jlcarrera33@gmail.com>
+| Date:   Thu Apr 22 09:24:13 2021 +0200
+| 
+|     Cambio 1
+| 
+* commit 228d23999f02fdee18f98a60cad2c749e3310045
+  Author: Jose Luis <jlcarrera33@gmail.com>
+  Date:   Thu Apr 22 09:23:08 2021 +0200
+  
+      Lista 1
+4872eb3 HEAD@{0}: commit (merge): Ahora si
+8c7d9ce HEAD@{1}: commit: Cambio en comida.txt
+1c3e649 HEAD@{2}: commit: Cambio en lista_socio.txt
+254eac2 HEAD@{3}: checkout: moving from cocina_caseta to master
+e92eacf HEAD@{4}: commit: Subida de lista_socio.txt
+78f4d22 HEAD@{5}: commit: Primera fichero creado
+8e1f3e3 HEAD@{6}: commit: Primera fichero creado
+9b94217 HEAD@{7}: commit: Cambio realizado en la nueva rama
+254eac2 HEAD@{8}: checkout: moving from master to cocina_caseta
+254eac2 HEAD@{9}: commit: Cambio 1
+228d239 HEAD@{10}: commit (initial): Lista 1
