@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Prueba 2
 Prueba3
+=======
+Holi 2
+Prueba2
+
+
+>>>>>>> cocina_caseta

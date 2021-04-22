@@ -1,2 +1,6 @@
 hOLI
+<<<<<<< HEAD
 Cambio 2
+=======
+Prueba2
+>>>>>>> cocina_caseta
